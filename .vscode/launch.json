@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prueba",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.prueba",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "busqueda_binaria",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.busqueda_binaria",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio2",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.ejercicio2",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ejercio1",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.ejercio1",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ejercio3",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.ejercio3",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "fibi",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.fibi",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "matriz_traspuesta",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.matriz_traspuesta",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "operaciones",
+            "request": "launch",
+            "mainClass": "PRACTICAS_JAVA.operaciones",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "contardigitos",
+            "request": "launch",
+            "mainClass": "clasesSis_2330.contardigitos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "contdigitos",
+            "request": "launch",
+            "mainClass": "clasesSis_2330.contdigitos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "lab1",
+            "request": "launch",
+            "mainClass": "clasesSis_2330.lab1",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "menu",
+            "request": "launch",
+            "mainClass": "clasesSis_2330.menu",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "tarea_ciclos",
+            "request": "launch",
+            "mainClass": "clasesSis_2330.tarea_ciclos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "cilindro",
+            "request": "launch",
+            "mainClass": "ejercicios_java.cilindro",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "clase_de_auxi",
+            "request": "launch",
+            "mainClass": "ejercicios_java.clase_de_auxi",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "digitos",
+            "request": "launch",
+            "mainClass": "ejercicios_java.digitos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "equilatero",
+            "request": "launch",
+            "mainClass": "ejercicios_java.equilatero",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "pago",
+            "request": "launch",
+            "mainClass": "ejercicios_java.pago",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "sumadig",
+            "request": "launch",
+            "mainClass": "ejercicios_java.sumadig",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "tarea",
+            "request": "launch",
+            "mainClass": "ejercicios_java.tarea",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "tareas4",
+            "request": "launch",
+            "mainClass": "ejercicios_java.tareas4",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "Mespiral",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.Mespiral",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "arreglo",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.arreglo",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "arreglos1",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.arreglos1",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "arreglos2",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.arreglos2",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "arreglos3",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.arreglos3",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "calculos",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.calculos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "clasebucles",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.clasebucles",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "condicionales1",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.condicionales1",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "digrepetidos",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.digrepetidos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio1",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.ejercicio1",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "horastr",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.horastr",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "matematic",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.matematic",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "matrices1",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.matrices1",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "matriz_traspuesta(1)",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.matriz_traspuesta",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ordenamientos",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.ordenamientos",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ordenar3numeros",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.ordenar3numeros",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "ordenar_filas",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.ordenar_filas",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "tabDeMulti",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.tabDeMulti",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "tipos_variable",
+            "request": "launch",
+            "mainClass": "ejercios_inicial_java.tipos_variable",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "Tpascal",
+            "request": "launch",
+            "mainClass": "sis23230_lab.Tpascal",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "VectorChar",
+            "request": "launch",
+            "mainClass": "sis23230_lab.VectorChar",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "jh",
+            "request": "launch",
+            "mainClass": "sis23230_lab.jh",
+            "projectName": "PrimerPrograma_546bdffe"
+        },
+        {
+            "type": "java",
+            "name": "lab1(1)",
+            "request": "launch",
+            "mainClass": "sis23230_lab.lab1",
+            "projectName": "PrimerPrograma_546bdffe"
+        }
+    ]
+}
